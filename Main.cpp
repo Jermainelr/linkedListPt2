@@ -1,6 +1,7 @@
 //Program Created by Jermaine Lara
 // 1/25/18
-// Program adds, deletes and prints names of students, their ID's and GPA's but uses linked lists and recursion
+// Program adds, deletes, prints names of students, their ID's and GPA's 
+// and also averages their GPA's. Similar to student list but uses linked lists and recursion instead of vectors
 #include <iostream>
 #include "node.h"
 #include <string.h>
